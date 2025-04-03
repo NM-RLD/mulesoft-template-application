@@ -12,7 +12,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<!-- maven version must be 3.8.1 or higher to deploy to Cloudhub 2.0 -->
-		<mule.maven.plugin.version>4.1.0</mule.maven.plugin.version>
+		<mule.maven.plugin.version>4.2.0</mule.maven.plugin.version>
 		<mule.maven.clean.plugin.version>3.2.0</mule.maven.clean.plugin.version>
 		<!-- Mulesoft Runtime Version -->
 		<mule.maven.plugin.muleVersion>4.4.0</mule.maven.plugin.muleVersion>
@@ -115,7 +115,7 @@
 						<formats>
 							<format>html</format>
 							<format>console</format>
-						</formats>	
+						</formats>
 						<ignoreFiles>
 							<ignoreFile>error-common.xml</ignoreFile>
 						</ignoreFiles>
